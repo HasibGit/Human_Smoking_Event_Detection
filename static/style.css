@@ -15,7 +15,7 @@ body {
 
 .form-signin {
   width: 100%;
-  max-width: 330px;
+  max-width: 500px;
   padding: 15px;
   margin: auto;
 }
@@ -26,4 +26,14 @@ body {
   height: auto;
   padding: 10px;
   font-size: 16px;
+}
+
+.heading{
+  font-family: 'Josefin Sans', sans-serif;
+  box-shadow: 5px 4px 10px #000000;
+  border-radius: 10px;
+  margin-bottom: 100px;
+  padding: 20px;
+  background-color: #FF5959;
+  color: white;
 }
